@@ -11,11 +11,15 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@offset-dev/strapi-calendar": "^0.0.9",
+    "@strapi/plugin-graphql": "4.5.3",
     "@strapi/plugin-i18n": "4.5.3",
     "@strapi/plugin-users-permissions": "4.5.3",
     "@strapi/provider-upload-aws-s3": "^4.5.3",
     "@strapi/strapi": "4.5.3",
-    "pg": "8.6.0"
+    "pg": "8.6.0",
+    "strapi-plugin-navigation": "^2.2.2",
+    "strapi-plugin-preview-button": "^1.0.1"
   },
   "author": {
     "name": "A Strapi developer"
